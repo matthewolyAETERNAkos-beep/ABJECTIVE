@@ -1,0 +1,8 @@
+{
+  "appId": "com.bazile.scoiatael",
+  "appName": "Scoiatael",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
